@@ -2,7 +2,7 @@
 
 ### Docs
 
-Checkout the Official Docs of Typescript: [https://www.typescriptlang.org/docs/handbook/intro.html](Docs)
+Checkout the Official Docs of Typescript: [Docs](https://www.typescriptlang.org/docs/handbook/intro.html)
 
 ### Notes
 
