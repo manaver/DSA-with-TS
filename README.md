@@ -22,4 +22,4 @@ If you would like to contribute to this repo, please fork the repo and make your
 
 ## Contact
 
-If you have any questions about this repo, please feel free to contact me from my website [manavverma.in](manavverma.in)
+If you have any questions about this repo, please feel free to contact me from my website [manavverma.in](http://manavverma.in/)

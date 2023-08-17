@@ -12,16 +12,16 @@ TypeScript being a _Syntactic Superset_ means that it shares the same base synta
 When we run Typescript code it get transpiled or we can also say converted into Javascript code.
 You are thinking if i
 
-- [https://www.typescriptlang.org/docs/handbook/2/basic-types.html](Types-in-TypeScript) : [/Basics/types.ts](Code)
+- [Docs on Types in TypeScript](https://www.typescriptlang.org/docs/handbook/2/basic-types.html) : [Code on Types](/Basics/types.ts)
 
 ### Video Resource
 
-If you like Video tutorial you can check out this amazing Typescript tutorial by Hitesh Choudhary on FreeCodeCamp: [https://youtu.be/30LWjhZzg50](Video)
+If you like Video tutorial you can check out this amazing Typescript tutorial by Hitesh Choudhary on FreeCodeCamp: [Video](https://youtu.be/30LWjhZzg50)
 
 ## TypeScript Playground
 
-To run Typescript code you can also check Typescript offical Playground: [https://www.typescriptlang.org/play?#code/PTAEAkFMCdNBDWoDOB7AtnARvZBLAY1AAdpUBzaedZUVAO1ABcBPYuPRpvTBWvUJHoFUAV3pMYodKiT1IAd2ZtI-UArwAbTQgAmu5gAtI6UMdgAoCyACSjACorkBaHmJN1cRHEwS8DTnIjOFZ2OgAzYNAAN0Q8eCxNOGNNYlpRWiZUdVdJaVk4MiwMjxFdSAskj0pISG56cmQALmQmVwbQAF5QAHIobWyAdVlNXQBCHoBuKxAAKXhY51d3UF1UVXoej0MFr3oWFHYCeJ1ocW5eWM1ROHDZUE5JchhkABoUbKZzSB7aemzIABHUR4K5CDxZB4SOjQUDhTSoeAeAC0gmiMBYX0CD1o+HQxE0B3oonQWCklTqoGJpJgTWpZNh3QAjAAGaYUjx4ZD2M6QJpYVCoJLwRjdNo3dlWET0NBJAB0CPIAAoanVArQANS9bVa+lSLU9HU4nk3ACUkyAA](Playground)
+To run Typescript code you can also check Typescript offical Playground: [Playground](https://www.typescriptlang.org/play?#code/PTAEAkFMCdNBDWoDOB7AtnARvZBLAY1AAdpUBzaedZUVAO1ABcBPYuPRpvTBWvUJHoFUAV3pMYodKiT1IAd2ZtI-UArwAbTQgAmu5gAtI6UMdgAoCyACSjACorkBaHmJN1cRHEwS8DTnIjOFZ2OgAzYNAAN0Q8eCxNOGNNYlpRWiZUdVdJaVk4MiwMjxFdSAskj0pISG56cmQALmQmVwbQAF5QAHIobWyAdVlNXQBCHoBuKxAAKXhY51d3UF1UVXoej0MFr3oWFHYCeJ1ocW5eWM1ROHDZUE5JchhkABoUbKZzSB7aemzIABHUR4K5CDxZB4SOjQUDhTSoeAeAC0gmiMBYX0CD1o+HQxE0B3oonQWCklTqoGJpJgTWpZNh3QAjAAGaYUjx4ZD2M6QJpYVCoJLwRjdNo3dlWET0NBJAB0CPIAAoanVArQANS9bVa+lSLU9HU4nk3ACUkyAA)
 
 ## Contact
 
-If you have any questions about this repo, please feel free to contact me from my website [manavverma.in](manavverma.in)
+If you have any questions about this repo, please feel free to contact me from my website [manavverma.in](http://manavverma.in/)
