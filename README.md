@@ -12,6 +12,16 @@ The repo is organized by day, with each day containing a set of problems. The pr
 - Each problem has a detailed solution in TypeScript, with an explanation.
 - The repo is open source, so you can contribute your own solutions or suggest new problems.
 
+## Setup
+- Install the TypeScript compiler. You can do this by running the following command:
+    ```
+    npm install -g ts-node
+    ```
+- Compile the TypeScript file to JavaScript. Run the following command:
+    ```
+    ts-node program.ts
+    ```
+
 ## License
 
 This repo is licensed under the MIT License. This means that you can use the code for any purpose, even for commercial purposes.
