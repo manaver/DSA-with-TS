@@ -48,3 +48,20 @@ const arr2: readonly string[] = ['Manav', 'John', 'Parrot']
 //Error if we try to push
 // arr2.push('Pigeon')
 console.log('Readonly array: ', arr2);
+
+//Tuples in TS
+console.log('Program on Tuples')
+let mUser: [string, number]
+mUser = ['MV', 123]
+console.log(mUser)
+// tUser = [123, 'MV', true] //This gives an error because the types r not in order
+// or we can also do that with type
+type TypeUser = [string, boolean]
+let vUser: TypeUser;
+// vUser = [true, 213, 333] // will not work because of order and also because of extra value
+
+// Problems in Tuples
+vUser = ['Hi', true]
+//The Main problem in tuples is we can push any type that is defined in tuples
+vUser.push(true, 'Shit', 'This is the main problem with Tuples')
+console.log(vUser)
