@@ -13,14 +13,18 @@ The repo is organized by day, with each day containing a set of problems. The pr
 - The repo is open source, so you can contribute your own solutions or suggest new problems.
 
 ## Setup
-- Install the TypeScript compiler. You can do this by running the following command:
-    ```
-    npm install -g ts-node
-    ```
+
+- Install the TypeScript compiler globally. You can do this by running the following command:
+
+  ```
+  npm install -g ts-node
+  ```
+
 - Compile the TypeScript file to JavaScript. Run the following command:
-    ```
-    ts-node program.ts
-    ```
+
+  ```
+  ts-node program.ts
+  ```
 
 ## License
 
