@@ -63,5 +63,5 @@ let vUser: TypeUser;
 // Problems in Tuples
 vUser = ['Hi', true]
 //The Main problem in tuples is we can push any type that is defined in tuples
-vUser.push(true, 'Shit', 'This is the main problem with Tuples')
+vUser.push(true, 'Shit', 'This is the problem with Tuples')
 console.log(vUser)
