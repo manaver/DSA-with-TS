@@ -35,3 +35,25 @@ eg: function add(a: number,b: number){
 
     Similarly, we can define the type of variable in other places like class, interface, etc.
 */
+
+// Defining constants
+const PI: number = 3.14;
+// same as
+let Pi: 3.14 = 3.14;
+// These both statements gives error
+// Pi = 3
+// PI = 3
+console.log("Value of Pi: ", Pi, " And Value of PI: ", PI)
+
+//Mixed types
+let x: (string | number) = 2;
+console.log('Number Mixed value x = ', x);
+x = 'working';
+console.log('String Mixed value x = ', x);
+// x = true //Gives error because type is not defined
+
+//Fixed Mixed types
+let seatAllotment: 'aisle' | 'middle' | 'window'
+// seatAllotment = "Front" //Gives error
+seatAllotment = 'window'
+console.log('Seat Allotment: ', seatAllotment)
