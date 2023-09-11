@@ -19,4 +19,6 @@ if (!fruitVendor.has("apple")) {
 
 console.log('Fruit Vendor has ' + fruitVendor.size + ' items');
 
+console.log("Price of orange is " + fruitVendor.get("orange") + " rupees");
+
 console.log(fruitVendor)
