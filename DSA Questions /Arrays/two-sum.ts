@@ -1,4 +1,5 @@
 //Leet Code Url: https://leetcode.com/problems/two-sum/
+// Easy
 
 function twoSum(nums: number[], target: number): number[] {
     //Creating a map for storing previous values
