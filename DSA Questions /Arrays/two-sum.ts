@@ -3,7 +3,7 @@
 
 function twoSum(nums: number[], target: number): number[] {
     //Creating a map for storing previous values
-    const numberMap = new Map();
+    const numberMap = new Map<number, number>();
 
     for (let i = 0; i < nums.length; i++) {
 
